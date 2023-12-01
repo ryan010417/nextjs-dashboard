@@ -4,9 +4,15 @@ const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
     name: 'User',
-    email: 'user@nextmail.com',
+    email: 'ryan010417@gmail.com',
     password: '123456',
   },
+  {
+    id:'410544b2-4001-0417-9855-fec4b6a6442a',
+    name: 'Ryan',
+    email: 'rzshen0417@gmail.com',
+    password: 'Ryan@1704'
+  }
 ];
 
 const customers = [
